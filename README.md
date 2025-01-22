@@ -28,8 +28,4 @@ Este projeto é um sistema de **biblioteca digital** desenvolvido em PHP como pa
   - Bootstrap (para design responsivo).
   - jQuery (para interatividade).
 
-## Instalação e Configuração
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/biblioteca-digital.git
